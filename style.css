@@ -156,6 +156,7 @@ header img{
     margin:40px;
     font-size: 25px;
     text-align: center;
+    font-weight: bold;
 }
 .featuredLeft{
     display: flex;
@@ -346,7 +347,6 @@ header img{
     margin-top: 15px;
     width:600px;
     text-align: center;
-    font-weight: 550;
 }
 
 .nlEmail{
@@ -392,7 +392,6 @@ header img{
     font-size: 14px;
     margin-top: 15px;
     width:400px;
-    font-weight: 550;
 }
 
 .socialMediaIcons img{
